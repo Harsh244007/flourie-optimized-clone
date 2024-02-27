@@ -12,4 +12,4 @@ mobile -> https://www.webpagetest.org/result/240227_AiDcGM_H7B/
 
 desktop -> https://www.webpagetest.org/result/240227_AiDcCE_H7A/
 
-I had optimized from 4 second to 1.8 second in initial load time.
+I had optimized from 1.6 second to 0.8 second in initial load time.
